@@ -23,11 +23,11 @@ var lang_caracteresLinkSugerencia = 'El link no debe superar 250 caracteres';
 var lang_sugerirCancionMsjExito_1 = 'Sugerencia enviada';
 var lang_sugerirCancionMsjExito_2 = 'Tu sugerencia de canción se ha agregado a la lista';
 
-var lang_titleModalAsistenciaCeremonia = '¿Asistes a la Boda?';
+var lang_titleModalAsistenciaCeremonia = '¿Asistes a la Misa?';
 var lang_titleModalAsistenciaFiesta = '¿Asistes a la fiesta?';
 
 var lang_titleModalMapaFiesta = 'Cómo llegar a la Fiesta';
-var lang_titleModalMapaCeremonia = 'Cómo llegar a la Boda';
+var lang_titleModalMapaCeremonia = 'Cómo llegar a la Misa';
 
 
 var lang_codigoAccesoVipRequerido = 'Ingrese el código de acceso';
