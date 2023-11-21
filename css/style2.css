@@ -1,10 +1,11 @@
 /* Generales */
+/* https://www.color-hex.com/color-palette/5811 */
 
 :root {
-  --color-1: #d2afff !important;
+  --color-1: #c38ed5 !important;
   --color-2: #e1c4ff !important;
   --color-3: #d8b9ff !important;
-  --color-4: #ECE5DE;
+  --color-4: #d2afff !important;
   --color-5: #575756;
 }
 
@@ -22,3 +23,7 @@ section.instagram:after{
 /* section.fiesta:after{
   background-image: url('../img/img_ondas.svg') !important;
 } */
+
+section.fiesta .item-fiesta .content-item-fiesta{
+  background-color: #efe9f9 !important;
+}
